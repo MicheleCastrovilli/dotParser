@@ -1,0 +1,3 @@
+digraph MyGraph {
+    A:ne -> B:sw;
+}
